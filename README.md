@@ -1,2 +1,0 @@
-# Preethi-k
-TNSDC
